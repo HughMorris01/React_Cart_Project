@@ -23,7 +23,7 @@ const cartItems = [
   {
     id: 'recwTo160XST3PIoW',
     title: 'Samsung Galaxy S7',
-    price: '599.99 ',
+    price: '599.99',
     img: 'https://images2.imgbox.com/2e/7c/yFsJ4Zkb_o.png',
     amount: 1,
   },
